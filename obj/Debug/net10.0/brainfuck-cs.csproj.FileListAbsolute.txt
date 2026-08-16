@@ -1,0 +1,14 @@
+/home/john/shit/projects/cs/brainfuck-cs/bin/Debug/net10.0/brainfuck-cs
+/home/john/shit/projects/cs/brainfuck-cs/bin/Debug/net10.0/brainfuck-cs.deps.json
+/home/john/shit/projects/cs/brainfuck-cs/bin/Debug/net10.0/brainfuck-cs.runtimeconfig.json
+/home/john/shit/projects/cs/brainfuck-cs/bin/Debug/net10.0/brainfuck-cs.dll
+/home/john/shit/projects/cs/brainfuck-cs/bin/Debug/net10.0/brainfuck-cs.pdb
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.AssemblyInfoInputs.cache
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.AssemblyInfo.cs
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.csproj.CoreCompileInputs.cache
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.dll
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/refint/brainfuck-cs.dll
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.pdb
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/brainfuck-cs.genruntimeconfig.cache
+/home/john/shit/projects/cs/brainfuck-cs/obj/Debug/net10.0/ref/brainfuck-cs.dll
